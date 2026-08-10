@@ -1,0 +1,21 @@
+{
+    "nome": "padaria-doce-sabor",
+    "version": "1.0.0",
+    "description": "Sistema de gerenciamento para padaria",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "node sistema2.js",
+      "info": " node sistema.js",
+      "calc":"node calculadora.js"
+    },
+    "keywords": [
+        "padaria",
+        "nodejs",
+        "backend",
+        "sistema",
+        "gerenciamento"
+    ] ,
+    "author": " Luisa Eduarda Neves da Silva",
+    "license": "MIT"
+}

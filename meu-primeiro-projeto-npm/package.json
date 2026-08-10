@@ -1,0 +1,12 @@
+{
+  "name": "meu-primeiro-projeto-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luisa Eduarda Neves da Silva",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Meu primeiro projeto com NPM"
+}
